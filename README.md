@@ -1,2 +1,2 @@
-# spaceX
-test SAGIROV
+Тестовое задание на вакансию Full-Stack
+«Битрикс24»
